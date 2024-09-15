@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.aab1130e.css",
-    "main.js": "/portfolio/static/js/main.0b33dbb2.js",
+    "main.js": "/portfolio/static/js/main.0ea9b0a3.js",
     "static/media/pic.png": "/portfolio/static/media/pic.e9d83e84975ed824dca9.png",
     "static/media/3.jpg": "/portfolio/static/media/3.7c4074e08071e5c67b53.jpg",
     "static/media/sklearn_genetic_opt.png": "/portfolio/static/media/sklearn_genetic_opt.15b892adf6368a965618.png",
@@ -10,10 +10,10 @@
     "static/media/portfolio.jpeg": "/portfolio/static/media/portfolio.b092dc9cfbcffcf1f628.jpeg",
     "index.html": "/portfolio/index.html",
     "main.aab1130e.css.map": "/portfolio/static/css/main.aab1130e.css.map",
-    "main.0b33dbb2.js.map": "/portfolio/static/js/main.0b33dbb2.js.map"
+    "main.0ea9b0a3.js.map": "/portfolio/static/js/main.0ea9b0a3.js.map"
   },
   "entrypoints": [
     "static/css/main.aab1130e.css",
-    "static/js/main.0b33dbb2.js"
+    "static/js/main.0ea9b0a3.js"
   ]
 }
